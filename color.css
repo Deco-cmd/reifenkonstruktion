@@ -234,3 +234,9 @@
 .parado {
     /* O retângulo fixo não terá nenhuma animação */
 }
+@media (max-width: 768px) {
+    .retangulo {
+        width: 80px; /* ajuste do tamanho */
+        height: 80px;
+    }
+}
