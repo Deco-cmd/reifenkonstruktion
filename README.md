@@ -1,4 +1,12 @@
 # Simulação de Construção de Pneu Automatizada
+## Como executar o projeto
+
+1. Clone este repositório para sua máquina local.
+2. Certifique-se de que todos os arquivos (`index.html`, `color.css`, `mov.js`) estão na mesma pasta.
+3. Abra o arquivo `index.html` em qualquer navegador moderno.
+4. **Para uma visualização ideal em dispositivos móveis**:
+   - Ative a opção "Versão para computador" no navegador.
+   - Coloque o dispositivo na **posição horizontal** para melhor exibição da simulação.
 
 Este projeto é uma simulação de uma construção de pneu automatizada. Utiliza HTML, CSS e JavaScript para criar e animar múltiplos elementos na tela, representando as etapas do processo.
 
