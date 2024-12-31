@@ -1,0 +1,236 @@
+.retangulo {
+    position: absolute;
+    width: 100px;
+    height: 50px;
+}
+/* Definição de estilo para retângulo 18 com transição suave */
+#retangulo18 {
+    background-color: rgba(249, 229, 11, 0.922); /* Cor do retângulo */
+    left: 460px; /* Posição horizontal */
+    width: 35px; /* Ajuste a largura do retângulo */
+    height: 100px; /* Altura do retângulo */
+    top: 325px; /* Posição vertical AM FRONTAL A*/
+    transition: top 1.3s ease; /* Transição suave de 2 segundos para o 'top' */
+}
+#retangulo17 {
+    background-color: rgba(249, 229, 11, 0.922); /* Cor do retângulo */
+    left: 460px; /* Posição horizontal */
+    width: 35px; /* Ajuste a largura do retângulo */
+    height: 100px; /* Altura do retângulo */
+    top: 325px; /* Posição vertical AM FRONTAL A*/
+    transition: top 0.3s ease; /* Transição suave de 2 segundos para o 'top' */
+}
+#retangulo22 {
+    background-color: rgb(12, 198, 67); /* Cor do retângulo */
+    left: 390px; /* Posição horizontal inicial */
+    width: 10px; /* Largura do retângulo */
+    height: 65px; /* Altura do retângulo */
+    top: 480px; /* Posição vertical */
+    transition: left 1s ease; /* Transição suave para o 'left' */
+}
+#retangulo27 {
+    background-color: #ee560a; /* Cor do retângulo */
+    left: 432px; /* Posição horizontal */
+    width: 40px; /* Ajuste a largura do retângulo para torná-lo mais estreito */
+    height: 98px; /* Altura do retângulo */
+    top: 560px; /* Posição vertical inicial */
+    transition: top 2s ease; /* Transição suave para o 'top' com duração de 0.5 segundos */
+}
+
+
+#retangulo1 {
+    background-color: blue; /* Cor do retângulo animado */
+    top: 490px; /* Ajuste a posição inicial conforme necessário */
+}
+
+#retangulo2 {
+    background-color: red; /* Cor do retângulo fixo */
+    top: 495px; /* Ajuste a posição inicial conforme necessário */
+    left: 400px; 
+    height: 35px;
+    width: 100px;
+
+}
+
+#retangulo3 {
+    background-color: black; /* Cor do retângulo */
+    left: 430px; /* Posição horizontal */
+    width: 10px; /* Ajuste a largura do retângulo para torná-lo mais estreito */
+    height: 65px; /* Altura do retângulo */
+    top: 480px; /* Posição vertical */
+}
+
+#retangulo4 {
+    background-color: black; /* Cor do retângulo */
+    left: 450px; /* Posição horizontal */
+    width: 10px; /* Ajuste a largura do retângulo para torná-lo mais estreito */
+    height: 65px; /* Altura do retângulo */
+    top: 480px; /* Posição vertical */
+}
+
+#retangulo5 {
+    background-color: black; /* Cor do retângulo */
+    left: 465px; /* Posição horizontal */
+    width: 10px; /* Ajuste a largura do retângulo para torná-lo mais estreito */
+    height: 65px; /* Altura do retângulo */
+    top: 480px; /* Posição vertical */
+}
+
+#retangulo6 {
+    background-color: black; /* Cor do retângulo */
+    left: 485px; /* Posição horizontal */
+    width: 10px; /* Ajuste a largura do retângulo para torná-lo mais estreito */
+    height: 65px; /* Altura do retângulo */
+    top: 480px; /* Posição vertical */
+}
+
+#retangulo7 {
+    background-color: black; /* Cor do retângulo */
+    left: 1000px; /* Posição horizontal */
+    width: 150px; /* Ajuste a largura do retângulo para torná-lo mais estreito */
+    height: 45px; /* Altura do retângulo */
+    top: 492px; /* Posição vertical TAMBOR*/
+}
+#retangulo8 {
+    background-color: rgb(27, 180, 197); /* Cor do retângulo */
+    left: 930px; /* Posição horizontal */
+    width: 220px; /* Ajuste a largura do retângulo para torná-lo mais estreito */
+    height: 55px; /* Altura do retângulo */
+    top: 433px; /* Posição vertical LINER */
+}
+#retangulo9 {
+    background-color: rgb(27, 180, 197); /* Cor do retângulo */
+    left: 1030px; /* Posição horizontal */
+    width: 120px; /* Ajuste a largura do retângulo para torná-lo mais estreito */
+    height: 105px; /* Altura do retângulo */
+    top: 275px; /* Posição vertical SW */
+}
+#retangulo10 {
+    background-color: rgb(27, 180, 197); /* Cor do retângulo */
+    left: 930px; /* Posição horizontal */
+    width: 220px; /* Ajuste a largura do retângulo para torná-lo mais estreito */
+    height: 65px; /* Altura do retângulo */
+    top: 125px; /* Posição vertical  LONA 1*/
+}
+#retangulo11 {
+    background-color: rgb(27, 180, 197); /* Cor do retângulo */
+    left: 930px; /* Posição horizontal */
+    width: 220px; /* Ajuste a largura do retângulo para torná-lo mais estreito */
+    height: 65px; /* Altura do retângulo */
+    top: 205px; /* Posição vertical LONA 2*/
+}
+#retangulo12 {
+    background-color: rgb(187, 191, 191); /* Cor do retângulo */
+    left: 701px; /* Posição horizontal */
+    width: 450px; /* Ajuste a largura do retângulo para torná-lo mais estreito */
+    height: 115px; /* Altura do retângulo */
+    top: 545px; /* Posição vertical */
+}
+#retangulo13 {
+    background-color: rgb(187, 191, 191); /* Cor do retângulo */
+    left: 480px; /* Posição horizontal */
+    width: 140px; /* Ajuste a largura do retângulo para torná-lo mais estreito */
+    height: 100px; /* Altura do retângulo */
+    top: 560px; /* Posição vertical LADO PACOTE*/
+}
+#retangulo14 {
+    background-color: rgba(249, 229, 11, 0.922); /* Cor do retângulo */
+    left: 620px; /* Posição horizontal */
+    width: 80px; /* Ajuste a largura do retângulo para torná-lo mais estreito */
+    height: 120px; /* Altura do retângulo */
+    top: 540px; /* Posição vertical */
+}
+#retangulo15 {
+    background-color: rgba(249, 229, 11, 0.922); /* Cor do retângulo */
+    left: 460px; /* Posição horizontal */
+    width: 35px; /* Ajuste a largura do retângulo para torná-lo mais estreito */
+    height: 200px; /* Altura do retângulo */
+    top: 110px; /* Posição vertical  AM TRASEIRO B */
+}
+#retangulo16 {
+    background-color: rgba(249, 229, 11, 0.922); /* Cor do retângulo */
+    left: 400px; /* Posição horizontal */
+    width: 35px; /* Ajuste a largura do retângulo para torná-lo mais estreito */
+    height: 200px; /* Altura do retângulo */
+    top: 110px; /* Posição vertical AM TRASEIRO A */
+}
+#retangulo17 {
+    background-color: rgba(249, 229, 11, 0.922); /* Cor do retângulo */
+    left: 400px; /* Posição horizontal */
+    width: 35px; /* Ajuste a largura do retângulo para torná-lo mais estreito */
+    height: 100px; /* Altura do retângulo */
+    top: 325px; /* Posição vertical AM FRONTAL B*/
+}
+#retangulo18 {
+    background-color: rgba(249, 229, 11, 0.922); /* Cor do retângulo */
+    left: 460px; /* Posição horizontal */
+    width: 35px; /* Ajuste a largura do retângulo para torná-lo mais estreito */
+    height: 100px; /* Altura do retângulo */
+    top: 325px; /* Posição vertical AM FRONTAL A*/
+}
+#retangulo19 {
+    background-color: rgba(249, 229, 11, 0.922); /* Cor do retângulo */
+    left: 580px; /* Posição horizontal */
+    width: 250px; /* Ajuste a largura do retângulo para torná-lo mais estreito */
+    height: 200px; /* Altura do retângulo */
+    top: 290px; /* Posição vertical ROBO*/
+}
+#retangulo20 {
+    background-color: rgb(27, 180, 197); /* Cor do retângulo */
+    left: 1055px; /* Posição horizontal */
+    width: 95px; /* Ajuste a largura do retângulo para torná-lo mais estreito */
+    height: 18px; /* Altura do retângulo FACA LN1*/
+    top: 384px;
+}
+#retangulo21 {
+    background-color: rgb(27, 180, 197); /* Cor do retângulo */
+    left: 1055px; /* Posição horizontal */
+    width: 95px; /* Ajuste a largura do retângulo para torná-lo mais estreito */
+    height: 16px; /* Altura do retângulo */
+    top: 405px;
+}
+#retangulo22 {
+    background-color: rgb(12, 198, 67); /* Cor do retângulo */
+    left: 390px; /* Posição horizontal */
+    width: 10px; /* Ajuste a largura do retângulo para torná-lo mais estreito */
+    height: 65px; /* Altura do retângulo */
+    top: 480px; /* Posição vertical OVERLAY*/
+}
+#retangulo23 {
+    background-color: rgb(12, 198, 67); /* Cor do retângulo */
+    left: 390px; /* Posição horizontal */
+    width: 40px; /* Ajuste a largura do retângulo para torná-lo mais estreito */
+    height: 45px; /* Altura do retângulo */
+    top: 560px; /* Posição vertical OVERLAY1*/
+}
+#retangulo24{
+    background-color: rgb(12, 198, 67); /* Cor do retângulo */
+    left: 390px; /* Posição horizontal */
+    width: 40px; /* Ajuste a largura do retângulo para torná-lo mais estreito */
+    height: 45px; /* Altura do retângulo */
+    top: 614px; /* Posição vertical OVERLAY2*/
+}
+#retangulo25{
+    background-color: rgba(105, 81, 4, 0.855); /* Cor do retângulo */
+    left: 390px; /* Posição horizontal */
+    width: 40px; /* Ajuste a largura do retângulo para torná-lo mais estreito */
+    height: 60px; /* Altura do retângulo */
+    top: 660px; /* Posição vertical RODAGEM ESQ*/
+}
+#retangulo26{
+    background-color: rgba(105, 81, 4, 0.855); /* Cor do retângulo */
+    left: 432px; /* Posição horizontal */
+    width: 40px; /* Ajuste a largura do retângulo para torná-lo mais estreito */
+    height: 60px; /* Altura do retângulo */
+    top: 660px; /* Posição vertical RODAGEM DIR*/
+}
+#retangulo27{
+    background-color: #ee560a; /* Cor do retângulo */
+    left: 432px; /* Posição horizontal */
+    width: 40px; /* Ajuste a largura do retângulo para torná-lo mais estreito */
+    height: 98px; /* Altura do retângulo */
+    top: 560px; /* Posição vertical RODAGEM ESTEIRA*/
+}
+.parado {
+    /* O retângulo fixo não terá nenhuma animação */
+}
